@@ -1,0 +1,6 @@
+{
+  "name": "AI TV Show Creator",
+  "description": "Create complete original television shows with AI-generated show bibles, script sandbox, casting guides, and optional integration with RapidAPI Movie reference tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
